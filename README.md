@@ -33,5 +33,4 @@
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/ddanielacarrasco/) • ✉️ *dalbacarrasco@gmail.com*
-
+📫 [LinkedIn](https://www.linkedin.com/in/ddanielacarrasco/) 
