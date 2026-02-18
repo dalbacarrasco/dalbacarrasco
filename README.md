@@ -1,6 +1,6 @@
 # 💻 Daniela Carrasco
 
-**Ingeniera en Informática | Diplomado en DevOps | Backend Developer | Data Enthusiast**
+**Ingeniera en Informática | Fullstack developer | Diplomado en DevOps | Data Enthusiast**
 
 ---
 
